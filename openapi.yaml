@@ -3,7 +3,7 @@ openapi: 3.0.0
 info:
   title: Пример API для работы с пользователями
   description: API для создания, получения, обновления и удаления пользователей.
-  version: 1.0.0
+  version: 1.0.1
 
 security:
   - api_key: []
